@@ -1,0 +1,13 @@
+{
+  "name": "hs-100-api-bridge",
+  "version": "1.0.0",
+  "author": "none",
+  "scripts": {},
+  "dependencies": {
+    "@smartthings/core-sdk": "^0.2.9",
+    "dotenv": "^10.0.0",
+    "hs100-api": "*",
+    "node-windows": "^0.1.14"
+  },
+  "private": true
+}
