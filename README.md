@@ -1,8 +1,5 @@
-# Run
-1. npm install
-2. node plexwebhook.js
-
-# Windows Service 
-1. `npm install`
-2. `node createwindowsservice.js`
-
+<center>#Plex Webhook<center>
+ <br/>
+  <br/>
+  <center>
+    <center><bold>Table Of Contents<bold><center>
