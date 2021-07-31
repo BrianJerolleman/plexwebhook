@@ -4,7 +4,7 @@ var Service = require('node-windows').Service;
 var svc = new Service({
   name:'Plex Webhookinator 3000',
   description: 'Server for plex WebHook. Used for stuffs like pause/play',
-  script: 'F:\\Data\\Software\\tplinksmartthings\\plexwebhook.js'
+  script: 'F:\\Data\\Software\\plexwebhook\\plexwebhook.js'
 });
 
 // Listen for the "install" event, which indicates the
