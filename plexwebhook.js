@@ -10,7 +10,7 @@ const PORT = 8083;
 
 var server = http.createServer(onRequest);
 server.listen(PORT);
-console.log("The Plex Webhook Server has started");
+console.log("The Plex Webhook Server has started on port " + port);
 
 function onRequest(request, response){
 	let body = [];
